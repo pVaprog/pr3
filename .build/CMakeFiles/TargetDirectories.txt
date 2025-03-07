@@ -1,0 +1,14 @@
+/home/astraadmin/cipo/pr3/.build/CMakeFiles/rebuild_cache.dir
+/home/astraadmin/cipo/pr3/.build/CMakeFiles/edit_cache.dir
+/home/astraadmin/cipo/pr3/.build/t1/CMakeFiles/rebuild_cache.dir
+/home/astraadmin/cipo/pr3/.build/t1/CMakeFiles/Task1.dir
+/home/astraadmin/cipo/pr3/.build/t1/CMakeFiles/edit_cache.dir
+/home/astraadmin/cipo/pr3/.build/t2/CMakeFiles/rebuild_cache.dir
+/home/astraadmin/cipo/pr3/.build/t2/CMakeFiles/Task2.dir
+/home/astraadmin/cipo/pr3/.build/t2/CMakeFiles/edit_cache.dir
+/home/astraadmin/cipo/pr3/.build/t3/CMakeFiles/rebuild_cache.dir
+/home/astraadmin/cipo/pr3/.build/t3/CMakeFiles/Task3.dir
+/home/astraadmin/cipo/pr3/.build/t3/CMakeFiles/edit_cache.dir
+/home/astraadmin/cipo/pr3/.build/t4/CMakeFiles/rebuild_cache.dir
+/home/astraadmin/cipo/pr3/.build/t4/CMakeFiles/Task4.dir
+/home/astraadmin/cipo/pr3/.build/t4/CMakeFiles/edit_cache.dir
