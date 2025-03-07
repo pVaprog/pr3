@@ -1,0 +1,42 @@
+# Игнорируем временные файлы и директории CMake
+.build/
+cmake-build-*/
+
+# Игнорируем сгенерированные файлы CMake
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+*.cmake
+
+# Игнорируем бинарные файлы и исполняемые файлы
+*.exe
+*.out
+*.app
+*.so
+*.dylib
+*.dll
+*.a
+*.lib
+*.o
+*.obj
+
+# Игнорируем логи и временные файлы
+*.log
+*.swp
+*.swo
+*.swn
+*.pid
+*.pid.lock
+
+# Игнорируем файлы IDE (если используется)
+.vscode/
+.idea/
+*.code-workspace
+
+# Игнорируем пользовательские настройки
+.DS_Store
+Thumbs.db
